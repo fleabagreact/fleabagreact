@@ -1,5 +1,5 @@
-<h2 align="left">Oiiii, sou a Luiza!! 👋</h2>
-<p align="left">Estudante do 3º ano de Informática para Internet no IFRN - Campus Caicó</p>
+<h2 align="left">Oiiii, sou a Luiza!! 👋 (mas pode me chamar de Lu)</h2>
+<p align="left">Sou estudante do 3º ano de Informática para Internet no IFRN - Campus Caicó</p>
 
 ###
 
