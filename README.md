@@ -1,6 +1,6 @@
-<h2 align="left">Oiiii, sou a Luiza!! 👋 (mas pode me chamar de Lu)</h2>
-<p align="left">Sou estudante do 3º ano de Informática para Internet no IFRN - Campus Caicó</p>
-<p align="left">Também escrevo, de poema a prosa, e sou uma entusiasta de literatura e cinema</p>
+<h2 align="left">Hi, I'm Luiza!! 👋 (but call me Lu)</h2>
+<p align="left">I'm interested in Front-End and Design.</p>
+<p align="left">I write everything from poems to prose, and I am a literature and cinema enthusiast.</p>
 
 ###
 
