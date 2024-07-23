@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Luiza!! 👋 (but call me Lu)</h2>
+<h2 align="left">Hi, I'm Luiza!! 👋 (but call me Luz)</h2>
 <p align="left">I'm interested in Front-End and Design but I have vast Back-End knowledge with Python.</p>
 
 ###
