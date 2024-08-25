@@ -50,8 +50,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/fleabagreact/fleabagreact/output/snake.svg" alt="Snake animation" />
 
 ###
