@@ -1,14 +1,12 @@
 <h2 align="left">Hi, I'm Luiza!👋</h2>
 <p align="left">
   
-- 🎓 **Internet Computing student at IFRN**
-- 🚀 Working on the **Third-Year Integration Project**
-- 🎨 Passionate about **aesthetics** - I love working on front-end and also work as a **graphic designer**
-- 💻 Learning **SQL and Django**
+- 🎓 Internet Computing student at IFRN
+- 🚀 Working on the Third-Year Integration Project
+- 🎨 Passionate about aesthetics - I love working on front-end and also work as a graphic designer
+- 💻 Learning SQL and Django
 
 </p>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fleabagreact&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true" height="150" alt="stats graph"  />
