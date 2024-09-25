@@ -4,7 +4,7 @@
 - 🎓 Internet Computing student at IFRN
 - 🚀 Working on the Third-Year Integration Project
 - 🎨 Passionate about aesthetics - I love working on front-end and also work as a graphic designer
-- 💻 Learning SQL and Django
+- 💻 Learning SQL, Django and C#
 
 </p>
 
