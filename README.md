@@ -2,9 +2,9 @@
 <p align="left">
   
 - 🎓 Internet Computing student at IFRN
-- 🚀 Working on the Third-Year Integration Project
+- 🚀 Working on my final paper
 - 🎨 Passionate about aesthetics - I love working on front-end and also work as a graphic designer
-- 💻 Learning SQL, Django and C#
+- 💻 Learning C# e React
 
 </p>
 
